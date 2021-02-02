@@ -1,0 +1,1 @@
+GET http://localhost:1010/translate?src_lang=hi&target_lang=en&text=Pardon 
